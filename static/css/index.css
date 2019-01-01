@@ -1,0 +1,17 @@
+section.fullpage {
+    height: 100vh;
+}
+
+div.landing-content {
+    height: 70vh;
+    background-image: url(http://printstuff.ca/wp-content/uploads/2015/04/Ticket-concert-Mockups.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: top;
+}
+
+h2 {
+    text-align: center;
+    text-shadow: 1px 2px black;
+    color: white !important;
+}

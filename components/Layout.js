@@ -11,6 +11,10 @@ const Layout = props => (
         content="width=device-width, initial-scale=1.0, shrink-to-fit=no"
       />
       <link rel="stylesheet" href={props.pageStyles} />
+      <link
+        rel="stylesheet"
+        href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css"
+      />
     </Head>
     {props.children}
   </Fragment>
